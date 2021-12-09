@@ -1,0 +1,24 @@
+{
+  "name": "git-for-train",
+  "version": "1.0.0",
+  "description": "git project for better understanding to git",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint .",
+    "t:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanillaTank/git-for-train.git"
+  },
+  "author": "Tanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VanillaTank/git-for-train/issues"
+  },
+  "homepage": "https://github.com/VanillaTank/git-for-train#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  },
+  "devDependencies": {}
+}
