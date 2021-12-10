@@ -1,4 +1,4 @@
 # git-for-train
-| <span class="empty"></span>   |   |
+| <span class=":empty"></span>   |   |
 | --- | --- |
 | foo | bar |
