@@ -1,4 +1,4 @@
 # git-for-train
 | FOO  |  BAR |
 | :-- | --- |
-| foo | bar |
+| foo | bar bar bar bar bar |
