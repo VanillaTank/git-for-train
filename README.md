@@ -1,8 +1,4 @@
 # git-for-train
-| FOO  |  BAR |
+| <span fontWeight="normal" >FOO</span>  |  BAR |
 | --- | :-- |
 | foo | bar bar bar bar bar |
-
-&nbsp; | &nbsp;
------- | -----
-Stuff  | More things
